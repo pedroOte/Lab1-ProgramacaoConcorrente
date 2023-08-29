@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 #define NTHREADS 8
-#define TAMVETOR 1000
+#define TAMVETOR 10000
 
 void *elevaAoQuadrado (void *arg){
     long int * n;
